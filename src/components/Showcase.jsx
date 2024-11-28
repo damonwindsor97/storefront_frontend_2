@@ -7,7 +7,7 @@ function Showcase() {
             <div className="text-center mt-[15%] md:m-auto">
                 <p className="text-gray-200 text-4xl">Company Name</p>
                 <p className="text-gray-400">Small Slogan, Big word, Trusting Word</p>
-                <button className='p-3 text-xs text-white rounded-lg bg-gradient-to-r from-cyan-500 to-blue-500 m-6 hover:from-blue-500 hover:to-cyan-500'>PURCHASE NOW</button>
+                <button className='p-3 text-xs text-white rounded-lg bg-gradient-to-r from-cyan-500 to-blue-500 m-6 hover:from-blue-500 hover:to-cyan-500  '>PURCHASE NOW</button>
             </div>
 
             <div className="m-8 drop-shadow-blue-glow md:m-auto">
