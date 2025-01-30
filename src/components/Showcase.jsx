@@ -2,7 +2,7 @@ import CheatPicture from '../assets/cheat.png'
 
 function Showcase() {
   return (
-    <div className="w-screen overflow-hidden ">
+    <div className="overflow-hidden ">
         <div className="md:max-w-[1280px] p-2 m-auto md:flex md:mt-[15%]">
             <div className="text-center mt-[15%] md:m-auto">
                 <p className="text-gray-200 text-4xl">Company Name</p>

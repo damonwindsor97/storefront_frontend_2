@@ -10,7 +10,7 @@ function Header() {
     setIsMenuOpen(!isMenuOpen)
   }
   return (
-    <nav className="bg-black w-screen font-inter md:text-sm">
+    <nav className="bg-black font-inter md:text-sm">
       <div className="pt-2 flex text-white mx-auto md:max-w-[1280px] md:justify-between items-center">
         <div className="relative z-10 flex">
           <img src={DefaultLogo} alt="" className='h-16'/>

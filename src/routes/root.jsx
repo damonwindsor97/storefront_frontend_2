@@ -11,7 +11,7 @@ export default function Root() {
                 <Header/>
             </div>
             
-            <div id="detail" className="relative z-10">
+            <div id="detail" className="">
                 <Outlet />
             </div>
 
