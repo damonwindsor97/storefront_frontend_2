@@ -12,7 +12,7 @@ export default {
 
       dropShadow: {
         'blue-glow': '0px 50px 200px rgba(59, 130, 246, 0.6)',
-        'blue-glow2': '0px 90px 150px rgba(59, 130, 246, 0.4)',
+        'blue-glow2': '0px 90px 100px rgba(59, 130, 246, 0.9)',
       },
     },
   },

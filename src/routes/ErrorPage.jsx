@@ -2,7 +2,9 @@
 
 function ErrorPage() {
   return (
-    <div>ErrorPage</div>
+    <div className="text-white">
+      <p className="text-center mt-20">Error 404: Page Not Found</p>
+    </div>
   )
 }
 
